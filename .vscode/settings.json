@@ -1,0 +1,9 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 20,
+    "C_Cpp.errorSquiggles": "disabled",
+    "editor.mouseWheelZoom": true,
+    "files.associations": {
+        "string.h": "c"
+    }
+}
