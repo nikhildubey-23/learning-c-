@@ -2,7 +2,7 @@
 int main(int argc, char const *argv[])
 {
     int a;
-    printf("enter any number: ");
+    printf("enter any number\n: ");
     scanf("%d",&a);
     if (a<=1)
     {
